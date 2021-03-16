@@ -1,0 +1,12 @@
+[package]
+name = "cxx_demo"
+version = "0.1.0"
+authors = ["zhangy233 <zhangy233@mdzz.email>"]
+edition = "2018"
+
+[dependencies]
+cxx = "1.0.32"
+
+[build-dependencies]
+cxx = "1.0.32"
+cxx-build = "1.0.32"
